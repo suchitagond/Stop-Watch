@@ -14,6 +14,10 @@ body {
     align-items: center;
 }
 
+html{
+    font-size: 80%;
+}
+
 .outerCircle {
     margin-top: 50px;
     width: 300px;
